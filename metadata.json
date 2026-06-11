@@ -1,0 +1,8 @@
+{
+  "name": "InsightFlow AI",
+  "description": "Platform analitik berbasis AI untuk bervisualisasi, data cleaning, forecast tren, dan insight instan dari unggahan dataset Excel atau CSV.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
